@@ -8,10 +8,9 @@ Live exchange rates was provided by: <a href="https://exchangeratesapi.io" targe
 
 <b>Installation</b><br/>
 1. Clone repo: `git clone https://github.com/varunrk2019/currencyConverter.git`<br/><br/>
-2. `cd currencyConverter`<br/><br/>
-3. In your terminal, create a .env file using: `touch .env`<br/><br/>
-4. Run `npm install`<br/><br/>
-5. Run `npm run build`<br/><br/>
+2. `cd currencyConverter-master`<br/><br/>
+3. Run `npm install`<br/><br/>
+4. Run `npm run build`<br/><br/>
 
 <b>Usage</b><br/>
 Run `npm start`<br/><br/><br/>
